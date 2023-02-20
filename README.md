@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohannesNeise
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning NLP and Textclassification
+- 🌱 I’m currently working on NLP, Textclassification and Object Detection
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me johannes.neise@digistore24.team
 
